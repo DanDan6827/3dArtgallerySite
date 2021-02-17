@@ -5,7 +5,7 @@
 <head>
 <link rel= "stylesheet" type="text/css" href="basic.css">
 <meta charset="UTF-8">
-<title>개인프로젝트 웹사이트</title>
+<title>개인프로젝트 웹사이트1</title>
 <style type="text/css">
 #bg>a{width: 150px; height: 30px; color: white;
 text-shadow:6px 2px 2px gray; 
